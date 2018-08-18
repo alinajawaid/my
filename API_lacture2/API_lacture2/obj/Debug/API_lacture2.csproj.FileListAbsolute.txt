@@ -1,0 +1,1 @@
+c:\users\asp.aptechnn\documents\visual studio 2013\Projects\API_lacture2\API_lacture2\obj\Debug\API_lacture2.csprojResolveAssemblyReference.cache
